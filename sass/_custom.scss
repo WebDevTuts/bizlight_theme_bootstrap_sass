@@ -61,3 +61,10 @@
     background: darken($main-color, 10%);
   }
 }
+
+footer {
+  padding: 30px 0;
+  text-align: center;
+  background: darken($main-color, 10%);
+  color: set-text-color($main-color);
+}
